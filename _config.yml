@@ -16,7 +16,7 @@ lang: en_gb
 
 # Your blog on the home page can be arranged as a grid
 
-gridlayout: false # change to true if you want grd layout
+gridlayout: true # change to true if you want grd layout
 
 # Header and footer text
 # Change this text to yourown

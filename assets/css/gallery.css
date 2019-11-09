@@ -7,7 +7,7 @@
   width:100%;
 }
 
-/* #gallery li {
+#gallery li {
   list-style-type: none;
   padding: 8px;
   margin-right:6px;
@@ -16,7 +16,7 @@
   border:1px solid silver;
   width:30%;
   vertical-align: top;
-} */
+}
 
 /* #gallery li:nth-child(3n+1){
     clear:left
@@ -28,7 +28,8 @@
 }
 
 #gallery a {
-  color:gray;
+  color:#64906d;
+  text-decoration: none;
 }
 
 #gallery li img {
@@ -42,15 +43,16 @@ margin:0;
 #gallery p.caption {
   font-size:.75rem;
   line-height:1;
-  margin-top: 6px;
-  margin-bottom:1px;
-/*border:1px solid green;*/
+  margin-top: 0;
+  margin-bottom:6px;
+  float:none;
+  display:block;
 }
 
 
 #gallery ul li a {
-  line-height:.1 !important;
-  margin:0;
+  /* line-height:.6; */
+  /* float:left; */
 }
 
 .gallerycontainer {

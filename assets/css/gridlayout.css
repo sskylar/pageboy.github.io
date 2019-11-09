@@ -15,7 +15,7 @@
   }
 
 .post-teaser {
-  flex-basis: 400px;
+  flex-basis: 300px;
   padding: 8px !important;
   margin: 10px;
   border:1px solid silver;
@@ -23,10 +23,14 @@
       -ms-flex: auto;
           flex: 0 0 1;
   max-width: 850px;
-  min-width: 180px;
+  min-width: 150px;
   font-size: 80%;
 }
 
+.post-teaser h1 {
+  font-size:1.5em;
+}
+
 .post-img {
-  height:200px !important;
+  height:180px !important;
 }
