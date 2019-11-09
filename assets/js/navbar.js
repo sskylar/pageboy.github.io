@@ -13,11 +13,11 @@ document.addEventListener("DOMContentLoaded", function (event) {
   /*
    * Make the header images move on scroll
    */
-//   window.addEventListener('scroll', function () {
-//     var x = window.pageYOffset || document.body.scrollTop;
-//     var main = document.getElementById("main");
-//     var mainStyle = main.style;
-//
-//     mainStyle.backgroundPosition = 'center ' + parseInt(-x / 1) + 'px' + ', center, center';
-//   });
+  // window.addEventListener('scroll', function () {
+  //   var x = window.pageYOffset || document.body.scrollTop;
+  //   var main = document.getElementById("main");
+  //   var mainStyle = main.style;
+  //
+  //   mainStyle.backgroundPosition = 'center ' + parseInt(-x / 1) + 'px' + ', center, center';
+  // });
 });

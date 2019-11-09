@@ -1,14 +1,18 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://yoursite.github.io"   #change this to yours
-title: My name or organisation # site's title
-description: "A website with blog posts and pages" # used by search engines
+url: "https://pageboy.github.io"   #change this to yours
+title: "Chris Jennings work and ideas"
+description: "Projects past and present"
 
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: assets/img/face.jpg
-favicon: assets/favicon.ico
+avatar: 'assets/img/logo.png'
+favicon: 'assets/img/logo.png'
+flickr_key: 6a751024fcc480f70610ed1f98220880
+flickr_id: 55648661@N00
+twitter_username: pageboy
+lang: en_gb
 
 # Your blog on the home page can be arranged as a grid
 
@@ -16,15 +20,15 @@ gridlayout: false # change to true if you want grd layout
 
 # Header and footer text
 # Change this text to yourown
-header_text: Me and my blog
+header_text:
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: /images/hhh.jpg
-twitter_username: puboxford  #change to your own twitter account
+header_feature_image:
+twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2019 My name"
+    "Copyright 2019 Chris Jennings"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
@@ -82,7 +86,7 @@ exclude: [".jekyll-cache", "Gemfile", "README.md"]
 # You can also use prose (prose.io) to edit and post to your site
 prose:
   #rooturl: '_posts'
-  siteurl: 'https://yoursite.github.io'
+  siteurl: 'https://pageboy.github.io'
   media: 'images'
   ignore:
     - README.md

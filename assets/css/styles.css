@@ -1,4 +1,8 @@
 /*! CSS adapted from  type theme */
+/* html, body {
+font-family: "Cantarell",Geneva,Tahoma,"Trebuchet MS",sans-serif;
+} */
+
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
@@ -201,7 +205,7 @@ img[align=right] {
 
 article, .comments, .feature-image .post-content, .feature-image footer,
 .posts .post-teaser, .site-footer {
-    padding: 4% 23%
+    padding: 1% 23%
 }
 
 
@@ -345,7 +349,8 @@ header {
 }
 
 .feature-image {
-    padding: 0
+    padding: 0;
+
 }
 
 .feature-image .post-link {
@@ -355,7 +360,7 @@ header {
 .feature-image header {
     color: #fff;
     margin-bottom: 0;
-    padding: 8% 20%
+    padding: 5% 20%;
 }
 
 .feature-image header .meta, .feature-image header #post-nav p, #post-nav .feature-image header p {
@@ -379,18 +384,20 @@ header {
 @media screen and (min-width: 768px) {
     .feature-image header {
         background-size: 120% auto
+        border:4px solid green;
     }
 }
 
 @media screen and (max-width: 768px) {
     .feature-image header {
-        background-size: 200% auto
+        background-size: 200% auto;
     }
 }
 
 @media screen and (max-width: 450px) {
     .feature-image header {
-        background-size: 400% auto
+        background-size: 200% auto;
+
     }
 }
 
@@ -646,11 +653,11 @@ max-height: 100%;
 }
 
 .site-header {
-    padding: 2% 2% 1% 2%;
+    padding: 1% 2% 0 2%;
     background: #fff;
     display: inline-block;
     float: left;
-    width: 100%
+    width: 100%;
 }
 
 .site-header .separator {
@@ -1248,4 +1255,17 @@ code.highlighter-rouge {
 
 ::-moz-selection {
     background: #D4D4D4
+}
+
+
+/* No `:visited` state is required by default (browsers will use `a`) */
+a {
+  color: #4f9241;
+  text-decoration: none;
+}
+/* `:focus` is linked to `:hover` for basic accessibility */
+a:hover,
+a:focus {
+  text-decoration: none;
+  color: rgb(32, 133, 100);
 }

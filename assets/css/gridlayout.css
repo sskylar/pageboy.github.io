@@ -11,10 +11,11 @@
   -ms-flex-pack: distribute;
       justify-content: center;
   padding:2px 12px;
+  margin: 15px 6%;
   }
 
 .post-teaser {
-  flex-basis: 700px;
+  flex-basis: 400px;
   padding: 8px !important;
   margin: 10px;
   border:1px solid silver;
@@ -23,4 +24,9 @@
           flex: 0 0 1;
   max-width: 850px;
   min-width: 180px;
+  font-size: 80%;
+}
+
+.post-img {
+  height:200px !important;
 }
