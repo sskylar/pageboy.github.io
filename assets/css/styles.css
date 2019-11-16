@@ -205,21 +205,21 @@ img[align=right] {
 
 article, .comments, .feature-image .post-content, .feature-image footer,
 .posts .post-teaser, .site-footer {
-    padding: 1% 23%
+    padding: 1% 23%;
 }
 
 
 @media (max-width: 1000px) {
     article, .comments, .feature-image .post-content, .feature-image footer,
     .posts .post-teaser, .site-footer {
-        padding: 6% 12.5%
+        padding: 6% 14%;
     }
 }
 
 @media (max-width: 576px) {
     article, .comments, .feature-image .post-content, .feature-image footer,
     .posts .post-teaser, .site-footer {
-        padding: 4%
+        padding: 4% 12%;
     }
 }
 
