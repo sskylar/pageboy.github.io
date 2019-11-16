@@ -216,10 +216,18 @@ article, .comments, .feature-image .post-content, .feature-image footer,
     }
 }
 
+
+@media (max-width: 768px) {
+    article, .comments, .feature-image .post-content, .feature-image footer,
+    .posts .post-teaser, .site-footer {
+        padding: 4% 6%;
+    }
+}
+
 @media (max-width: 576px) {
     article, .comments, .feature-image .post-content, .feature-image footer,
     .posts .post-teaser, .site-footer {
-        padding: 4% 12%;
+        padding: 2% 4%;
     }
 }
 
