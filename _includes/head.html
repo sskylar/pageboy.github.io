@@ -13,7 +13,7 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    {% if site.google_analytics %}
+    {%- if site.google_analytics -%}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.theme_settings.google_analytics }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -21,15 +21,15 @@
       gtag('js', new Date());
       gtag('config', '{{ site.google_analytics }}');
     </script>
-    {% endif %}
+    {%- endif -%}
     {%- if page.title != site.hide_title -%}
       <title>{{site.title}} | {{ page.title }}</title>
     {%- else -%}
       <title>{{site.title}}</title>
     {%- endif -%}
-    {% include metadata.html %}
+    {%- include metadata.html -%}
     <!-- style the featured page image -->
-    {% if page.header_feature_image %}{% assign image_url = page.header_feature_image %}
+    {%- if page.header_feature_image %}{% assign image_url = page.header_feature_image -%}
     <style>
       #main {
         background-repeat:no-repeat;
@@ -42,5 +42,5 @@
           text-align: center;
       }
     </style>
-    {% endif %}
+    {%- endif -%}
 </head>
