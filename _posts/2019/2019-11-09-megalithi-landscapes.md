@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Megalithic Landscapes
-date:
+date: 2019-11-18
 published: true
 flickr_album: 72157638454280223
 header_feature_image: images/2019/11/brodgar.jpg
