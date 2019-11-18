@@ -16,7 +16,7 @@ lang: en_gb
 
 # Your blog on the home page can be arranged as a grid
 
-gridlayout: false # change to true if you want grd layout
+gridlayout: true # change to true if you want grd layout
 
 # Header and footer text
 # Change this text to yourown
@@ -29,6 +29,7 @@ lang: en_gb
 # change the following to your name or site name
 footer_text:
     "Copyright 2019 Chris Jennings"
+
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
@@ -78,10 +79,18 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
+permalink: pretty
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 exclude: [".jekyll-cache", "Gemfile", "README.md"]
+
+
+# collections
+collections:
+  projects:
+    output: true
+    layout: default
 
 # You can also use prose (prose.io) to edit and post to your site
 prose:
