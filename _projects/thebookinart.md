@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Images of the Book in Art
 date: 2019-06-05 08:50
 published: true

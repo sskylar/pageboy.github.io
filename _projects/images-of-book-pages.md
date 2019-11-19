@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Books and Typography
 date: 2019-11-08 16:53
 published: true
