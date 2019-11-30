@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Walls of Interest
 date: 2019-07-05 08:50
 published: true
