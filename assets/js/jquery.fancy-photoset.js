@@ -54,7 +54,7 @@
               size: options.large
             }),
             rel: "flickr-" + options.photosetId,
-            title: photo.title + " | " + photo.description._content
+            title: photo.title
           });
           anchor.html(image).fancybox(options.fancybox);
           if (options.captions) {
