@@ -103,7 +103,8 @@ margin:0;
       -ms-flex-flow: row wrap;
           flex-flow: row wrap;
   -ms-flex-pack: distribute;
-      justify-content: space-between;
+      /* justify-content: space-between; */
+      justify-content:flex-start;
 }
 
 
@@ -116,8 +117,8 @@ margin:0;
   vertical-align: top;
   -webkit-box-flex: 1;
       -ms-flex: auto;
-          flex: auto;
-  width: 200px;
+          flex: 1 1 auto;
+  max-width: 325px;
 }
 
 
