@@ -1292,3 +1292,18 @@ a:focus {
   text-decoration: none;
   color: rgb(32, 133, 100);
 }
+
+.postimage {
+  display:block;
+  margin:12px auto;
+  max-width:500px;
+}
+
+.postimage img {
+  max-width:500px;
+  display:block;
+}
+
+.postimage .caption {
+  font-size: .8em;
+}

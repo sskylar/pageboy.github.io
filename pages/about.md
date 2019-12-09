@@ -1,18 +1,48 @@
 ---
 layout: page
 title: About
-subtitle: All about me and my life #optional sub title to the post
+subtitle: All about me and my stuff #optional sub title to the post
 permalink: /about/
-header_feature_image:  /images/log.jpg #replace this for yours
+header_feature_image: /images/watersedge.jpg #replace this for yours
 tags:
-published: false
+published: true
 description:
 ---
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+Yes I am. Chris Jennings and I live in Oxford, UK.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I teach at Oxford Brookes University within the [Oxford International Centre for Publishing][aae24ac8].
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+  [aae24ac8]: https://publishing.brookes.ac.uk "see the Publishing web site - which I manage"
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+## My web sites
+
+[![Publisha](/images/2019/12/publisha.png)](/images/2019/12/publisha.png)
+
+[My Digital Publishing Hub site][5f5c75ef]
+
+This site includes all of my eBook production and digital publishing help documents, presentations and screencasts. You can get loads of help if you are using InDesign to create eBooks.
+
+  [5f5c75ef]: https://publisha.github.io "check out Publisha"
+
+[![Publisha on Medium](/images/2019/12/medium2.png)](/images/2019/12/medium2.png)
+
+[Publisha on Medium][2b32ddf3]
+
+  [2b32ddf3]: https://medium.com/publisha "I am putting some of my papers on Medium"
+
+I publish papers within my medium publication.
+
+[![My boat Perspectief](/images/2019/12/perspectief.png)](/images/2019/12/perspectief.png)
+
+[My boat _Perspectief_][73c6ee63]
+
+I keep my boat on the Thames in Oxford, and am (as often as possible) making extended trips out on the river both upstream and downstream.
+
+  [73c6ee63]: https://perspectief.chrisjennings.net "See my boat blog and picture gallery"
+
+[![PagetoScreen son to be retired](/images/2019/12/pagetoscreen.png)](/images/2019/12/pagetoscreen.png)
+
+[PagetoScreen][55d18952] is my legacy website and I will probably be retiring this very soon.
+
+  [55d18952]: https://www.pagetoscreen.net "Lots of useful information"

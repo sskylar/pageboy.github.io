@@ -4,6 +4,23 @@
 
     {%- include javascripts.html -%}
     {%- include stylesheets.html -%}
+
+    {%- if page.title=="About" -%}
+    <style>
+    .postimage {
+      display:block;
+      margin:0;
+      max-width:300px;
+    }
+
+    .postimage img {
+      border:1px solid silver;
+    }
+    .postimage .caption {
+    display:none;
+  }
+    </style>
+    {%- endif -%}
     <!--Favicon-->
     <link rel="shortcut icon" href="{{ site.favicon | relative_url }}" type="image/x-icon">
 
