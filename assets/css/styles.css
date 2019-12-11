@@ -1306,4 +1306,5 @@ a:focus {
 
 .postimage .caption {
   font-size: .8em;
+  line-height: .6 !important;
 }
