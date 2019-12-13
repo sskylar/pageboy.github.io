@@ -35,14 +35,14 @@ footer_text:
 rss: false  # Make sure you created a feed.xml with feed.xml layout
 email_address: # Full email address, e.g. "sam@example.com"
 facebook:
-flickr:
+flickr: chrisjennings
 google_plus:
 instagram:
 linkedin:  # Full URL
 pinterest:
 soundcloud:
-twitter: # "twitter username"
-youtube:
+twitter: pageboy
+youtube: PublishaDigitalPublishingHub
 
 # Sharing options
 share_buttons:
