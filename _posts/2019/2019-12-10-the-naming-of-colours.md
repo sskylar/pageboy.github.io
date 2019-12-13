@@ -14,7 +14,7 @@ When visiting a **Bobbi Brown** make up store recently I was struck at the incre
 
 [![Lipsticks at Bobbi Brown](/images/2019/12/IMG_0576.jpg)](/images/2019/12/IMG_0576.jpg)
 
-On a recent visit to the Farrow & ball paint store I picked up a different colour chart -  _the Colour By Nature_ chart  - a collaboration with the Natural History Museum (London). This is based on Werner's Nomenclature of [^1].
+On a recent visit to the Farrow & ball paint store I picked up a different colour chart -  _the Colour By Nature_ chart  - a collaboration with the Natural History Museum (London). This is based on Werner's Nomenclature of Colours[^1].
 
 [![Patrick Syme, Werner's nomenclature of colours; Edinburgh: William Blackwood, 1821.](/images/2019/12/WernersNomenclature_02-768x655@2x.jpg)](/images/2019/12/WernersNomenclature_02-768x655@2x.jpg)
 
