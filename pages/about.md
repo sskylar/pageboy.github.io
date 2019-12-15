@@ -1,12 +1,11 @@
 ---
-layout: page
 title: About
-subtitle: All about me and my stuff #optional sub title to the post
-permalink: /about/
-header_feature_image: /images/watersedge.jpg #replace this for yours
-tags:
-published: true
-description:
+permalink: "/about/"
+layout: page
+subtitle: All about me and my stuff
+header_feature_image: "/images/watersedge.jpg"
+tags: 
+description: 
 ---
 
 Yes I am. Chris Jennings and I live in Oxford, UK.

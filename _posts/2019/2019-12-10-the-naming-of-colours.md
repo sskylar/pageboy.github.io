@@ -1,12 +1,14 @@
 ---
-layout: post
 title: The Naming of Colours
-date: 2019-12-10 19:03
-published: true
+date: 2019-12-10 19:03:00 Z
+tags:
+- Colour,
+- Art,
+- Web
+layout: post
 header_feature_image: images/2019/12/IMG_0578.jpg
 caption: Farrow and Ball colour chart
 flickr_album: 72157712175659357
-tags: Colour, Art, Web   # use [tag1,tag2]
 ---
 
 We might say "I like your blue sweater". But we could instead say "I really love your "Pavilion Blue" sweater. Of course we would need to have memorised the _Farrow & Ball_ colour card and have been brainwashed with these named colours.
