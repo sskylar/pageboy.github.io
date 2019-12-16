@@ -1,4 +1,3 @@
----
 title: Chris Jennings work and ideas
 timezone: UTC
 collections:
@@ -12,21 +11,18 @@ collections:
   uploads:
     title: Uploads
     output: true
-
 defaults:
   -
     scope:
       path: "posts"
-      type: "posts"
     values:
       layout: "posts"
       header_feature_image:
       caption:
-      flickr_album:       
+      flickr_album:
   -
     scope:
       path: "pages"
-      type: "pages"
     values:
       layout: "page"
       header_feature_image:
@@ -35,13 +31,11 @@ defaults:
   -
     scope:
       path: "projects"
-      type: "pages"
     values:
       layout: "project"
       header_feature_image:
       caption:
       flickr_album:
-
 baseurl: ''
 url: https://pageboy.github.io
 description: Projects past and present

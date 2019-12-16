@@ -59,6 +59,7 @@ date: {date}
 published: false
 header_feature_image:
 caption:
+flickr_album:
 tags:    # use [tag1,tag2]
 ---
 """
