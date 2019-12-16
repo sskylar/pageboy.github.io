@@ -1,3 +1,4 @@
+# SITE CONFIGURATION
 title: Chris Jennings work and ideas
 timezone: UTC
 collections:
@@ -12,7 +13,6 @@ collections:
     title: Uploads
     output: true
 defaults:
-<<<<<<< HEAD
   -
     scope:
       path: "posts"
@@ -37,32 +37,6 @@ defaults:
       header_feature_image:
       caption:
       flickr_album:
-=======
-- scope:
-    path: posts
-    type: posts
-  values:
-    layout: posts
-    header_feature_image: 
-    caption: 
-    flickr_album: 
-- scope:
-    path: pages
-    type: pages
-  values:
-    layout: page
-    header_feature_image: 
-    caption: 
-    flickr_album: 
-- scope:
-    path: projects
-    type: pages
-  values:
-    layout: project
-    header_feature_image: 
-    caption: 
-    flickr_album: 
->>>>>>> 0b29bc427fe7370eb6ae86932db58f4576976fb0
 baseurl: ''
 url: https://pageboy.github.io
 description: Projects past and present
@@ -73,29 +47,29 @@ flickr_id: 55648661@N00
 twitter_username: pageboy
 lang: en_gb
 gridlayout: false
-header_text: 
-header_feature_image: 
+header_text:
+header_feature_image:
 footer_text: Copyright 2019 Chris Jennings
 rss: false
-email_address: 
-facebook: 
+email_address:
+facebook:
 flickr: chrisjennings
-google_plus: 
-instagram: 
-linkedin: 
-pinterest: 
-soundcloud: 
+google_plus:
+instagram:
+linkedin:
+pinterest:
+soundcloud:
 twitter: pageboy
 youtube: PublishaDigitalPublishingHub
 share_buttons:
   facebook: true
   twitter: true
-  tumblr: 
-  pinterest: 
-  linkedin: 
+  tumblr:
+  pinterest:
+  linkedin:
   email: true
-google_analytics: 
-disqus_shortname: 
+google_analytics:
+disqus_shortname:
 str_follow_on: Follow on
 str_rss_follow: Follow RSS feed
 str_share_on: Share on
