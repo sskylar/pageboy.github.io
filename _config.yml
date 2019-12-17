@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  pages:
+    title: Pages
+    output: true
   projects:
     title: Projects
     output: true
@@ -23,7 +26,6 @@ defaults:
     flickr_album:
 - scope:
     path: pages
-    type: pages
   values:
     layout: page
     header_feature_image:
