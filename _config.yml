@@ -2,12 +2,6 @@
 title: Chris Jennings work and ideas
 timezone: UTC
 collections:
-<<<<<<< HEAD
-=======
-  pages:
-    title: Pages
-    output: true
->>>>>>> 512de1cbf118a15b0dca1b5740bd5b83d48c6354
   posts:
     title: Posts
     output: true
