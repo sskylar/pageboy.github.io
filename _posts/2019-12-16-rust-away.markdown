@@ -8,7 +8,7 @@ tags:
 - ''
 header_feature_image: "/uploads/zsolt-palatinus-pEK3AbP8wa4-unsplash.jpg"
 caption: Photo by Zsolt Palatinus on Unsplash
-flickr_album: 565656
+flickr_album: 72157712052560973
 layout: post
 ---
 
@@ -18,14 +18,16 @@ Some of us don't like rust because it implies a deterioration of our metallic be
 
 Rusting is a chemical process which results in the formation of red or orange coating on the surface of metals. The rust is actually an iron oxide and can only occur when the metal in question is either iron or an alloy that contains iron.
 
+[![Photo by Kevin Noble on Unsplash](/uploads/kevin-noble-kdK2z8O82uw-unsplash.jpg)](/uploads/kevin-noble-kdK2z8O82uw-unsplash.jpg)
+
 ## When does rusting occur?
 
 The rusting will happen when the metal is exposed to air or water.  Us individuals involved with anything boaty or marine will be aware that when metal meets the sea, it rusts even faster! If you look at my collection of photos below, you will see many metal objects, such as mooring rings can get very rusty, because they are near to the sea and are exposed to the salt in the air.
-
-[![Photo by Zsolt Palatinus on Unsplash](/uploads/zsolt-palatinus-pEK3AbP8wa4-unsplash.jpg)](/uploads/zsolt-palatinus-pEK3AbP8wa4-unsplash.jpg)
 
 Rusty things imply neglect and abandonment and this is often true. But rust can add colour to otherwise uninteresting scenes.
 
 ## Stainless steel
 
 I thought I would mention the fact that chandlery (such as cleats, rigging and fixings) are often made of stainless steel because this alloy contains a significant amount of chromium. This forms a layer to protect the steel within the alloy from being in contact with the air or water.
+
+banner photo: by Zsolt Palatinus on Unsplash
