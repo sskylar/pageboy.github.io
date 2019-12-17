@@ -8,7 +8,7 @@ tags:
 - ''
 header_feature_image: "/uploads/zsolt-palatinus-pEK3AbP8wa4-unsplash.jpg"
 caption: Photo by Zsolt Palatinus on Unsplash
-flickr_album: 72157712052560973
+flickr_album: 565656
 layout: post
 ---
 
@@ -21,6 +21,8 @@ Rusting is a chemical process which results in the formation of red or orange co
 ## When does rusting occur?
 
 The rusting will happen when the metal is exposed to air or water.  Us individuals involved with anything boaty or marine will be aware that when metal meets the sea, it rusts even faster! If you look at my collection of photos below, you will see many metal objects, such as mooring rings can get very rusty, because they are near to the sea and are exposed to the salt in the air.
+
+[![Photo by Zsolt Palatinus on Unsplash](/uploads/zsolt-palatinus-pEK3AbP8wa4-unsplash.jpg)](/uploads/zsolt-palatinus-pEK3AbP8wa4-unsplash.jpg)
 
 Rusty things imply neglect and abandonment and this is often true. But rust can add colour to otherwise uninteresting scenes.
 
