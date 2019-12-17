@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Rust Away
 date: 2019-12-17 16:04:00 Z
 tags:
@@ -10,6 +11,8 @@ header_feature_image: "/uploads/zsolt-palatinus-pEK3AbP8wa4-unsplash.jpg"
 caption: Photo by Zsolt Palatinus on Unsplash
 flickr_album: "72157712052560973"
 layout: post
+=======
+>>>>>>> d8201f5d5e4a012b32dd0c2217fe6c2767131c09
 ---
 
 Some of us don't like rust because it implies a deterioration of our metallic belongings. On the other hand, some architects like rust because it delivers a rich red/orange surface.
