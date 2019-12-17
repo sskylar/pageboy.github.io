@@ -1,19 +1,5 @@
 ---
-title: Rust Away
-date: 2019-12-17 16:04:00 Z
-tags:
-- marine
-- objects
-- Colour
-- ''
-header_feature_image: "/uploads/zsolt-palatinus-pEK3AbP8wa4-unsplash.jpg"
-caption: Photo by Zsolt Palatinus on Unsplash
-<<<<<<< HEAD:_posts/2019-12-16-rust-away.markdown
-flickr_album: "72157712052560973"
-=======
-flickr_album: '"72157712052560973"'
->>>>>>> 3188ffee8f872ed939bd99b9f0ceef6f2d03f502:_posts/2019-12-17-rust-away.markdown
-layout: post
+title: 2019 12 17 Rust Away
 ---
 
 Some of us don't like rust because it implies a deterioration of our metallic belongings. On the other hand, some architects like rust because it delivers a rich red/orange surface.
