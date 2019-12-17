@@ -22,7 +22,8 @@ defaults:
     caption: 
     flickr_album: 
 - scope:
-    path: pages
+    path: ''
+    type: pages
   values:
     layout: page
     header_feature_image: 
