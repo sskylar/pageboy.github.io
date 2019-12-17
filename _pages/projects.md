@@ -3,7 +3,6 @@ title: Projects
 permalink: "/projects/"
 layout: projects
 header_feature_image: "/images/log.jpg"
-tags: 
 description: 
 gridlayout: true
 ---

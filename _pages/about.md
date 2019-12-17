@@ -4,7 +4,6 @@ permalink: "/about/"
 layout: page
 subtitle: All about me and my stuff
 header_feature_image: "/images/watersedge.jpg"
-tags: 
 description: 
 ---
 
