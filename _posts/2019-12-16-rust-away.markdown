@@ -3,7 +3,12 @@ title: Rust Away
 date: 2019-12-16 16:04:00 Z
 tags:
 - marine
-- obejcts
+- objects
+- Colour
+- ''
+header_feature_image: "/uploads/zsolt-palatinus-pEK3AbP8wa4-unsplash.jpg"
+caption: Photo by Zsolt Palatinus on Unsplash
+flickr_album: 72157712052560980
 layout: page
 ---
 
