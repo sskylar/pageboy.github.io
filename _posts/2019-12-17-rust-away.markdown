@@ -8,11 +8,7 @@ tags:
 - ''
 header_feature_image: "/uploads/zsolt-palatinus-pEK3AbP8wa4-unsplash.jpg"
 caption: Photo by Zsolt Palatinus on Unsplash
-<<<<<<< HEAD:_posts/2019-12-16-rust-away.markdown
 flickr_album: "72157712052560973"
-=======
-flickr_album: '"72157712052560973"'
->>>>>>> 3188ffee8f872ed939bd99b9f0ceef6f2d03f502:_posts/2019-12-17-rust-away.markdown
 layout: post
 ---
 
