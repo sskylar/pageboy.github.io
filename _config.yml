@@ -2,11 +2,11 @@
 title: Chris Jennings work and ideas
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
   pages:
     title: Pages
+    output: true
+  posts:
+    title: Posts
     output: true
   projects:
     title: Projects
