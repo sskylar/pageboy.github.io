@@ -23,7 +23,7 @@ On a recent visit to the Farrow & ball paint store I picked up a different colou
 
 Werner’s Nomenclature of Colour (first published in 1814) constructs a system or taxonomy for the classification of colour with reference to things in the natural world. The classification was then extended and published by Patrick Syme. A total of 110 colours are included.
 
-The book is available for [viewing onlin][4378e7bc]e on the Public Domain Review web site.
+The book is available for [viewing online][4378e7bc]e on the Public Domain Review web site.
 
   [4378e7bc]: https://publicdomainreview.org/collection/werner-s-nomenclature-of-colours-1814 "Public Domain Review"
 
